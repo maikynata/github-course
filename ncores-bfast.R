@@ -186,3 +186,6 @@ rm(blockData)
 gc(verbose=FALSE)
 
 saveBfastResult(bfastResult, referenceFile, blockOffset, blockSize)
+
+
+# Curso de Git
